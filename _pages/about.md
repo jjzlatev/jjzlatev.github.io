@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of business administration in the Negotiation, Organizations & Markets Unit at Harvard Business School. I am broadly interested in ethics and morality, trust, impression formation, decision making, and prosocial behavior.
+I am the Julie Damgard Frist and Thomas Frist III Associate Professor of Business Administration in the Negotiation, Organizations & Markets Unit at Harvard Business School. I am broadly interested in ethics and morality, trust, impression formation, decision making, and prosocial behavior.
 
